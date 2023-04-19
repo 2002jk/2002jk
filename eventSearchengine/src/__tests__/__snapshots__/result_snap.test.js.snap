@@ -1,0 +1,72 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders search result correctly 1`] = `
+<div>
+  <h1
+    className="result-title"
+  >
+    查询结果
+  </h1>
+  <button
+    className="ant-btn ant-btn-default"
+    disabled={false}
+    onClick={[Function]}
+    style={
+      Object {
+        "marginRight": "10px",
+      }
+    }
+    type="button"
+  >
+    <span>
+      思维导图
+    </span>
+  </button>
+  <button
+    className="ant-btn ant-btn-default"
+    disabled={false}
+    onClick={[Function]}
+    type="button"
+  >
+    <span>
+      时间线
+    </span>
+  </button>
+  <div
+    className="result-tag"
+  >
+    <a
+      href="https://www.baidu.com"
+    >
+      事件相关信息
+    </a>
+    <p>
+      2022-6-23
+    </p>
+  </div>
+  <div
+    className="result-tag"
+  >
+    <a
+      href="https://www.baidu.com"
+    >
+      事件相关信息
+    </a>
+    <p>
+      2022-6-23
+    </p>
+  </div>
+  <div
+    className="result-tag"
+  >
+    <a
+      href="https://www.baidu.com"
+    >
+      事件相关信息
+    </a>
+    <p>
+      2022-6-23
+    </p>
+  </div>
+</div>
+`;

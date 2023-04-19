@@ -1,0 +1,16 @@
+body {
+    /*background-color: rgb(245, 253, 255);*/
+    background-image: url("./assets/back.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.container {
+    width: 1080px;
+    margin: 30px auto 0;
+    padding: 25px;
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.85);
+}

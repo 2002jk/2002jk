@@ -1,0 +1,29 @@
+.MyHeader {
+    background-color: whitesmoke;
+}
+
+.header-container {
+    width: 60%;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+.LeftHeader {
+    float: left;
+    margin-top: 5px;
+}
+
+.LeftHeader ul {
+    margin-bottom: 5px;
+}
+
+.LeftHeader ul li {
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.LeftHeader ul li a {
+    color: darkgray;
+    font-size: 20px;
+    font-family: '华文楷体', serif;
+}
